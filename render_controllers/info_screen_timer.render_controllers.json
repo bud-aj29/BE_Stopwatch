@@ -1,0 +1,225 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+
+    "controller.render.info_screen_timer_h_0": {
+    
+      "arrays": {
+        "textures": {
+          "Array.text": [
+	  //addon texture array
+	  
+		"Texture.info_screen_number_16pt_0",
+		"Texture.info_screen_number_16pt_1",
+		"Texture.info_screen_number_16pt_2",
+		"Texture.info_screen_number_16pt_3",
+		"Texture.info_screen_number_16pt_4",
+		"Texture.info_screen_number_16pt_5",
+		"Texture.info_screen_number_16pt_6",
+		"Texture.info_screen_number_16pt_7",
+		"Texture.info_screen_number_16pt_8",
+		"Texture.info_screen_number_16pt_9"
+
+	  //end addon texture array
+	  ]
+        }
+      },
+    
+      "geometry": "geometry.info_screen_timer_h_0",
+      "materials": [ { "*": "Material.info_screen" } ],
+      "ignore_lighting":true,
+      "textures": [ "Array.text[ variable.info_screen_var_timer_h_0 ]" ],
+      "part_visibility": [ { "*": true }, { "head": false } ]
+    },
+    
+    "controller.render.info_screen_timer_m_10": {
+    
+      "arrays": {
+        "textures": {
+          "Array.text": [
+	  //addon texture array
+	  
+		"Texture.info_screen_number_16pt_0",
+		"Texture.info_screen_number_16pt_1",
+		"Texture.info_screen_number_16pt_2",
+		"Texture.info_screen_number_16pt_3",
+		"Texture.info_screen_number_16pt_4",
+		"Texture.info_screen_number_16pt_5"
+
+	  //end addon texture array
+          ]
+        }
+      },
+    
+      "geometry": "geometry.info_screen_timer_m_10",
+      "materials": [ { "*": "Material.info_screen" } ],
+      "ignore_lighting":true,
+      "textures": [ "Array.text[ variable.info_screen_var_timer_m_10 ]" ],
+      "part_visibility": [ { "*": true }, { "head": false } ]
+    },
+    
+    "controller.render.info_screen_timer_m_0": {
+    
+      "arrays": {
+        "textures": {
+          "Array.text": [
+	  //addon texture array
+	  
+		"Texture.info_screen_number_16pt_0",
+		"Texture.info_screen_number_16pt_1",
+		"Texture.info_screen_number_16pt_2",
+		"Texture.info_screen_number_16pt_3",
+		"Texture.info_screen_number_16pt_4",
+		"Texture.info_screen_number_16pt_5",
+		"Texture.info_screen_number_16pt_6",
+		"Texture.info_screen_number_16pt_7",
+		"Texture.info_screen_number_16pt_8",
+		"Texture.info_screen_number_16pt_9"
+
+	  //end addon texture array
+          ]
+        }
+      },
+    
+      "geometry": "geometry.info_screen_timer_m_0",
+      "materials": [ { "*": "Material.info_screen" } ],
+      "ignore_lighting":true,
+      "textures": [ "Array.text[ variable.info_screen_var_timer_m_0 ]" ],
+      "part_visibility": [ { "*": true }, { "head": false } ]
+    },
+    
+    "controller.render.info_screen_timer_s_10": {
+    
+      "arrays": {
+        "textures": {
+          "Array.text": [
+	  //addon texture array
+	  
+		"Texture.info_screen_number_16pt_0",
+		"Texture.info_screen_number_16pt_1",
+		"Texture.info_screen_number_16pt_2",
+		"Texture.info_screen_number_16pt_3",
+		"Texture.info_screen_number_16pt_4",
+		"Texture.info_screen_number_16pt_5"
+
+	  //end addon texture array
+          ]
+        }
+      },
+    
+      "geometry": "geometry.info_screen_timer_s_10",
+      "materials": [ { "*": "Material.info_screen" } ],
+      "ignore_lighting":true,
+      "textures": [ "Array.text[ variable.info_screen_var_timer_s_10 ]" ],
+      "part_visibility": [ { "*": true }, { "head": false } ]
+    },
+    
+    "controller.render.info_screen_timer_s_0": {
+    
+      "arrays": {
+        "textures": {
+          "Array.text": [
+	  //addon texture array
+	  
+		"Texture.info_screen_number_16pt_0",
+		"Texture.info_screen_number_16pt_1",
+		"Texture.info_screen_number_16pt_2",
+		"Texture.info_screen_number_16pt_3",
+		"Texture.info_screen_number_16pt_4",
+		"Texture.info_screen_number_16pt_5",
+		"Texture.info_screen_number_16pt_6",
+		"Texture.info_screen_number_16pt_7",
+		"Texture.info_screen_number_16pt_8",
+		"Texture.info_screen_number_16pt_9"
+
+	  //end addon texture array
+          ]
+        }
+      },
+    
+      "geometry": "geometry.info_screen_timer_s_0",
+      "materials": [ { "*": "Material.info_screen" } ],
+      "ignore_lighting":true,
+      "textures": [ "Array.text[ variable.info_screen_var_timer_s_0 ]" ],
+      "part_visibility": [ { "*": true }, { "head": false } ]
+    },
+    
+    "controller.render.info_screen_timer_ms_10": {
+    
+      "arrays": {
+        "textures": {
+          "Array.text": [
+	  //addon texture array
+	  
+		"Texture.info_screen_number_8pt_0",
+		"Texture.info_screen_number_8pt_1",
+		"Texture.info_screen_number_8pt_2",
+		"Texture.info_screen_number_8pt_3",
+		"Texture.info_screen_number_8pt_4",
+		"Texture.info_screen_number_8pt_5",
+		"Texture.info_screen_number_8pt_6",
+		"Texture.info_screen_number_8pt_7",
+		"Texture.info_screen_number_8pt_8",
+		"Texture.info_screen_number_8pt_9"
+
+	  //end addon texture array
+          ]
+        }
+      },
+    
+      "geometry": "geometry.info_screen_timer_ms_10",
+      "materials": [ { "*": "Material.info_screen" } ],
+      "ignore_lighting":true,
+      "textures": [ "Array.text[ variable.info_screen_var_timer_ms_10 ]" ],
+      "part_visibility": [ { "*": true }, { "head": false } ]
+    },
+    
+    "controller.render.info_screen_timer_ms_0": {
+    
+      "arrays": {
+        "textures": {
+          "Array.text": [
+	  //addon texture array
+	  
+		"Texture.info_screen_number_8pt_0",
+		"Texture.info_screen_number_8pt_1",
+		"Texture.info_screen_number_8pt_2",
+		"Texture.info_screen_number_8pt_3",
+		"Texture.info_screen_number_8pt_4",
+		"Texture.info_screen_number_8pt_5",
+		"Texture.info_screen_number_8pt_6",
+		"Texture.info_screen_number_8pt_7",
+		"Texture.info_screen_number_8pt_8",
+		"Texture.info_screen_number_8pt_9"
+
+	  //end addon texture array
+          ]
+        }
+      },
+    
+      "geometry": "geometry.info_screen_timer_ms_0",
+      "materials": [ { "*": "Material.info_screen" } ],
+      "ignore_lighting":true,
+      "textures": [ "Array.text[ variable.info_screen_var_timer_ms_0 ]" ],
+      "part_visibility": [ { "*": true }, { "head": false } ]
+    },
+    
+    "controller.render.info_screen_timer_colon_1": {
+    
+      "geometry": "geometry.info_screen_timer_colon_1",
+      "materials": [ { "*": "Material.info_screen" } ],
+      "ignore_lighting":true,
+      "textures": [ "Texture.info_screen_character_16pt_colon" ],
+      "part_visibility": [ { "*": true }, { "head": false } ]
+    },
+    
+    "controller.render.info_screen_timer_colon_2": {
+    
+      "geometry": "geometry.info_screen_timer_colon_2",
+      "materials": [ { "*": "Material.info_screen" } ],
+      "ignore_lighting":true,
+      "textures": [ "Texture.info_screen_character_16pt_colon" ],
+      "part_visibility": [ { "*": true }, { "head": false } ]
+    }
+  }
+}

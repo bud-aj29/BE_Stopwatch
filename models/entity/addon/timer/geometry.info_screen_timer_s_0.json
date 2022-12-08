@@ -1,0 +1,19 @@
+{
+	"format_version": "1.10.0",
+	"geometry.info_screen_timer_s_0": {
+		"texturewidth": 12,
+		"textureheight": 16,
+		"visible_bounds_width": 26,
+		"visible_bounds_height": 9,
+		"visible_bounds_offset": [0, 4.5, 0],
+		"bones": [
+			{
+				"name": "timer_Screen1",
+				"pivot": [-115, 28, 169],
+				"cubes": [
+					{"origin": [259.5, 160, 250], "size": [12, 16, 0.01], "uv": [0, 0]}
+				]
+			}
+		]
+	}
+}

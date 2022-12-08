@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "Stopwatch while holding dirt",
+		"name": "Stopwatch",
+		"uuid": "be048d46-d2f1-43a0-bbc5-8dae63cfc7a8",
+		"version": [ 0,0,2 ],
+		"min_engine_version": [ 1, 18, 0 ]
+	},
+	"modules": [
+		{
+			"description": "",
+			"type": "resources",
+			"uuid": "851a8797-4893-4e1d-b1e0-9ca16baacbc6",
+			"version": [0, 0, 1]
+		}
+	],
+	"subpacks": [
+		{
+			"folder_name": "subpack_1",
+			"name": "white",
+			"memory_tier": 1
+		},
+		{
+			"folder_name": "subpack_2",
+			"name": "black",
+			"memory_tier": 2
+		}
+	]
+}
