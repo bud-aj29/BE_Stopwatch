@@ -3,15 +3,15 @@
 	"header": {
 		"description": "Stopwatch while holding dirt",
 		"name": "Stopwatch",
-		"uuid": "d9994db6-298f-48e2-9510-38bd3ade89e2",
-		"version": [ 0,0,3 ],
-		"min_engine_version": [ 1, 18, 0 ]
+		"uuid": "92a8c7da-ad89-4e33-aa73-a0250e6b645a",
+		"version": [ 0,0,4 ],
+		"min_engine_version": [ 1, 20, 10 ]
 	},
 	"modules": [
 		{
 			"description": "",
 			"type": "resources",
-			"uuid": "373b6184-e8ea-48d1-9bfd-ba713337dfbd",
+			"uuid": "33774673-87cb-409c-8563-ebda59eacf87",
 			"version": [0, 0, 1]
 		}
 	],
