@@ -1,0 +1,3 @@
+- Last tested on 1.20.15
+- Simple stopwatch on screen that starts when player is holding dirt
+- Stop by taking dirt out of the hand. Clear and restart by holding dirt again.
